@@ -1,5 +1,7 @@
 # encoding: utf-8
 
+require "inspec/globals"
+
 module InspecPlugins
   module Compliance
     # stores configuration on local filesystem
